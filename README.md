@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🖥️  I am currently doing a batch at Recurse Center!  Updates will be going to my website here --> https://dww.rcdis.co/
+🖥️  I am currently doing a batch at Recurse Center!
 
 🧬 My Ph.D. work on fitting short-range chromatin data to simulations can be found here! -->
 https://github.com/riscalab/wlcsim/tree/isd
