@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🖥️  I am currently doing a batch at Recurse Center!
+🌱 I am currently doing a postdoc in John Chodera's lab at MSK, working on OpenADMET.
+
+🖥️  I recently did a batch at Recurse Center focusing on ML and game dev
 
 🧬 My Ph.D. work on fitting short-range chromatin data to simulations can be found here! -->
 https://github.com/riscalab/wlcsim/tree/isd
