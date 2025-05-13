@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I am currently doing a postdoc in John Chodera's lab at MSK, working on OpenADMET.
+⚗️ I am currently working at OMSF on the OpenADMET project.
 
 🖥️  I recently did a batch at Recurse Center focusing on ML and game dev
 
